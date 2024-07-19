@@ -9,4 +9,4 @@
 **July / August, 2024**
 
 ## Pre-Workshop Activities
-**Pre-workshop material and activities found in the wiki [here](https://github.com/NU-CPGME/sl-pre_workshop_2024/wiki).**
+**Pre-workshop material and activities found in the wiki [here](https://github.com/NU-CPGME/sl_pre-workshop_2024/wiki).**
